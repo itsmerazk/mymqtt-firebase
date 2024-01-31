@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936198720487",
+    "project_id": "mymqtt-286db",
+    "storage_bucket": "mymqtt-286db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936198720487:android:d4dd4c5c5875f0b08e8b42",
+        "android_client_info": {
+          "package_name": "com.company.mymqtt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzBgjacHpmgonfMMStI9E4O_7m_7uHEvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
