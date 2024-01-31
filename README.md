@@ -1,0 +1,1 @@
+This project is a Final Semester Exam project for the Mobile Programming Course to create an MQTT application that connects to an Arduino ESP32 using Firebase. but this application project is still not 100% perfect
